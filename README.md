@@ -1,2 +1,2 @@
 # CenturySturgeon.github.io
-My github pages site.
+My personal blog, since Fastai recommends having one.
