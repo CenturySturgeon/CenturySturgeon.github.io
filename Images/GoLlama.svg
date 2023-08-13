@@ -21,19 +21,20 @@
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.51276154"
-     inkscape:cx="608.46997"
-     inkscape:cy="55.581392"
+     inkscape:cx="494.38185"
+     inkscape:cy="318.86167"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showborder="true" />
   <defs
      id="defs2">
     <image
@@ -141,8 +142,8 @@
        height="150"
        x="0"
        y="4.4408921e-16"
-       rx="5"
-       ry="5" />
+       rx="10"
+       ry="10" />
     <g
        transform="matrix(0.26458333,0,0,0.26458333,0.05312765,-66.93113)"
        id="g672">
